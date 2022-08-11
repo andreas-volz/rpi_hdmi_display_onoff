@@ -51,7 +51,7 @@ def switch_on(pin):
         cancel_display_timer()
         start_display_timer()
 
-  log("-switch_on()")
+#  log("-switch_on()")
 
 # set 0 for display off
 # set 1 for display on
